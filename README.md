@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaisAbiyyi
-- 👀 I’m interested in Wordl Domination
+- 👀 I’m interested in World Domination
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
