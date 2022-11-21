@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaisAbiyyi
 - 👀 I’m interested in World Domination
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
