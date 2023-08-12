@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KaisAbiyyi/KaisAbiyyi/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2023 05:41:49 UTC
+ Last Updated on 12/08/2023 18:37:13 UTC
 <!--END_SECTION:waka-->
