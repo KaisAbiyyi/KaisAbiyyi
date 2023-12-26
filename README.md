@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 119 hrs 25 mins
+Total Time: 121 hrs 21 mins
 
-TypeScript       95 hrs 15 mins  ████████████████████░░░░░   79.77 %
-C++              7 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-C                6 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Blade Template   2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Prisma           1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript       97 hrs 9 mins   ████████████████████░░░░░   80.06 %
+C++              7 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+C                6 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Blade Template   2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Prisma           1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
