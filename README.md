@@ -22,13 +22,13 @@ Feel free to explore my repositories and reach out for collaboration or feedback
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 540 hrs 39 mins
+Total Time: 546 hrs 7 mins
 
-TypeScript        307 hrs 14 mins ██████████████▒░░░░░░░░░░   56.83 %
-C                 64 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Java              49 hrs 16 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-PHP               47 hrs 42 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-HTML              15 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TypeScript        307 hrs 14 mins ██████████████░░░░░░░░░░░   56.26 %
+C                 64 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Java              53 hrs 52 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+PHP               47 hrs 42 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+HTML              16 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
